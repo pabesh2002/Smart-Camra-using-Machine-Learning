@@ -1,2 +1,2 @@
 # Smart-Camra-using-Machine-Learning
-motion sensor detector
+it is an motion sensor detector
